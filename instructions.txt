@@ -1,8 +1,0 @@
-Assignment 4 by Cadence Delia
-jl23th, 7876683
-
-To log in with admin status, log in with:
-username: jl23th
-password: cosc2p89
-
-Note: Passwords are stored with caesar cipher
