@@ -1,4 +1,3 @@
-#!/usr/bin/php-cgi
 <!DOCTYPE html>
 <!--
 Cadence Delia
@@ -75,7 +74,7 @@ jl23th
           localWishlist = [];
         }";
       }
-      ?>  
+    ?>  
     </script>
     <?php include 'includes/footer.php'; ?>
   </body>

@@ -1,4 +1,3 @@
-#!/usr/bin/php-cgi
 <div class="container">
       <footer class="d-flex flex-wrap justify-content-between align-items-center py-4 border-top fixed-bottom bg-light">
         <div class="col-md-4 d-flex align-items-center">

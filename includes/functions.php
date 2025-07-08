@@ -1,4 +1,3 @@
-#!/usr/bin/php-cgi
 <?php
 
 function uidExists($conn, $username) {
